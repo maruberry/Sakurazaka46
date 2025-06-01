@@ -1,0 +1,24 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "mv": "checkbox",
+    "main": "text",
+    "A-side": "checkbox",
+    "a_side": "checkbox",
+    "joined": "date",
+    "released": "date",
+    "graduated": "date",
+    "birthday": "date",
+    "Hiatus": "multitext",
+    "captain": "date",
+    "vice-captain": "date",
+    "tracklist": "multitext",
+    "Debut date": "date",
+    "center": "multitext",
+    "Arranger": "multitext",
+    "composer": "multitext",
+    "order": "text"
+  }
+}

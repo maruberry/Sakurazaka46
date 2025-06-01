@@ -1,0 +1,26 @@
+
+## TO DO
+- [ ] Finalize member page template
+- [ ] Fill out member pages
+- [ ] Finalize release template
+- [ ] Fill out releases
+	- [ ] trailers, teasers etc
+	- [ ] Tracklist
+	- [ ] Promotions
+- [ ] Finalize song template
+- [ ] Fill out songs
+	- [ ] Participating members
+	- [ ] Formation
+	- [ ] Additional info
+	- [ ] MV (if exists)
+	- [ ] Video of performance(s)
+		- [ ] Figure out alternative to bilibili. Private on dailymotion?
+- [ ] Create concert template
+- [ ] Fill out concerts
+	- [ ] setlist
+	- [ ] participating members
+	- [ ] additional info
+- [ ] Variety show info
+	- [ ] Episode list
+	- [ ] Members who get highlighted/talk in episode list
+	- [ ] Members who appear in episode
