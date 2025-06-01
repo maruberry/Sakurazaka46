@@ -177,8 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf8605bdffda3553",
+  "active": "ebcbd0a6ce9eb864",
   "lastOpenFiles": [
+    "README.md",
+    "Members.md",
     "conflict-files-obsidian-git.md"
   ]
 }

@@ -1,3 +1,1 @@
-# Sakurazaka46
-# Sakurazaka46
-# Sakurazaka46
+# A guide for Sakurazaka46 that has actually turned into a wiki
